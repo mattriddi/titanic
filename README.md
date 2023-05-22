@@ -21,6 +21,6 @@ In this project I was interested in three questions using a subset of the Titani
 ## File Descriptions <a name="files"></a>
 There is one notebook. This notebook contains all of the data wrangling, exploration and model building used to answer the 3 questions posed above. Markdown cells are used to explain the steps being taken at each stage. The dataset used is train.csv, containing details for 891 passengers.
 ## Results <a name="results"></a>
-The findings of the code can be found here:
+The findings of the code can be found here: https://medium.com/@matthew.riddiford/would-you-have-survived-on-the-titanic-fa2b858b63be
 ## Licensing, Authors, and Acknowledgements <a name="licensing"></a>
 The dataset used comes from Kaggle - more information can be found at https://www.kaggle.com/competitions/titanic/overview. Feel free to use this code as you wish.
